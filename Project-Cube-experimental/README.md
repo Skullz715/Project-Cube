@@ -33,4 +33,4 @@ Minecraft and Project Cube are very different, but build around the same idea.
 | Mobs | Built-In Zoom Function |
 
 ##Feedback
-If you have any questions, contact me at btkeever@gmail.com.
+If you have any questions, contact me at skullzmc715@gmail.com
