@@ -3,9 +3,6 @@ This is the experimental branch of Project Cube, and may have many unstable feat
 To play the stable branch of Project Cube, go to: https://b-train04.github.io/Project-Cube/projectCube/index.html
 
 ##Official Pages
-http://b-train04.github.io/Project-Cube/<br>
-https://github.com/B-Train04/Project-Cube/wiki<br>
-https://b-train04.github.io/Project-Cube/projectCube/index.html
 
 ##What Is It?
 Project Cube is a Minecraft-like game made with HTML, CSS, and JS.
